@@ -110,6 +110,51 @@ img{
 .home__img-container{
     max-width: 400px;
 }
+/* about  */
+.section__title{
+    text-align: center;
+    margin-bottom: 8px;
+}
+.section__subtitle{
+    display: block;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.about{
+    margin-bottom: 40px;
+}
+.about__container{
+
+}
+.about__img{
+    width: 200px;
+    margin: 0 auto;
+}
+.about__description{
+    margin-bottom: 20px;
+}
+.about__info{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+}
+.about__info-title{
+    font-weight: bold;
+    font-size: 30px;
+}
+.about__info-name{
+
+}
+.about__info-title,
+.abount__info-name{
+    display: block;
+    text-align: center;
+}
+.about__buttons {
+    text-align: center;
+
+    
+}
 
 /* experience  */
 .experience{
